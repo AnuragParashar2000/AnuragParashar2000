@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Anurag Parashar.
+### <h1>Hi there 👋, My Name is Anurag Parashar.<h1>
 ![](https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif)
 
 
