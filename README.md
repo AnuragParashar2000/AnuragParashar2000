@@ -12,6 +12,8 @@ Skills: C/HTML/CSS/JAVASCRIPT
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/AnuragParashar2000)  [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/anurag-parashar/)  [<img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png' alt='instagram' height='40'>](https://www.instagram.com/anuragparashar03/)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<br>
+  <a href='anuragparashar.co' target='_blank'>PERSONAL WEBSITE</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragParashar2000)](https://github.com/anuraghazra/github-readme-stats)
 
