@@ -7,7 +7,7 @@
 </p>
 
 
-Skills: C/C++/HTML/CSS/JAVASCRIPT
+Skills: C/C++/HTML/CSS/JAVASCRIPT/REACT/NODE
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C++, JavaScript, CSS. 
