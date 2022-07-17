@@ -37,4 +37,4 @@ Skills: C/C++/HTML/CSS/JAVASCRIPT/REACT/NODE
 ![Profile views](https://gpvc.arturio.dev/AnuragParashar2000)  
 
 -----
-Credits: [Anurag Parashar](https://github.com/AnuragParashar2000)
+Made with 💖: [Anurag Parashar](https://github.com/AnuragParashar2000)
